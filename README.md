@@ -6,6 +6,7 @@
 - [React Batching 이해하기](https://roronoa-jongjin.tistory.com/2)
 
 ## Javascript / Typescript
+- ["dangerously"SetInnerHTML](https://roronoa-jongjin.tistory.com/27)
 - [프로토타입에 대해 아는 대로 설명하시오.](https://roronoa-jongjin.tistory.com/22)
 - [라이브러리 없이 uuid 생성하기](https://roronoa-jongjin.tistory.com/17)
 - [연산자를 통해 Type 정의하기](https://roronoa-jongjin.tistory.com/11)
